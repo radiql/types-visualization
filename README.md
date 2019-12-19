@@ -1,2 +1,2 @@
 # types-visualization
-A collection of entity data types commonly used in data visualization
+A collection of data types commonly used in data visualization
